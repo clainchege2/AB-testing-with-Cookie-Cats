@@ -26,6 +26,6 @@ The bootstrap result tells us that there is strong evidence that 7-day retention
 
 **Acknowledgement:**
 
-- Udacity for guidances and material
-- Kaggle for the wonderful dataset
-- Grace Mumo (wife) for the support
+- _Udacity_ for guidances and material
+- _Kaggle_ for the wonderful dataset
+- _Grace Mumo_ (wife) for the support
