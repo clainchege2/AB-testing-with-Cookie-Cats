@@ -14,11 +14,11 @@ Im a very big fun of games, expecially FIFA. This project was inspired by the de
 
 **Files:**
 
-cookie_cats.csv - data file in csv format
+- cookie_cats.csv -   data file in csv format
 
-notebook.ipynb - jupyter notebook of the project
+- notebook.ipynb -   jupyter notebook of the project
 
-cookie cats.png	 - an image shot of the game
+- cookie cats.png	 -   an image shot of the game
 
 **Summary:**
 
