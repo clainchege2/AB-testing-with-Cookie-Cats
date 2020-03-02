@@ -3,7 +3,7 @@
 **The libraries used**
 
 - python
--pandas
+- pandas
 
 **Motivation:**
 
